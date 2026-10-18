@@ -34,6 +34,55 @@ The platform combines a modern web interface, a Python backend, generative AI, a
 
 ---
 
+## Application Screenshots
+
+### 1. Landing Page
+Introduction to AI Interview Copilot and its main call to action.
+
+![Landing Page](screenshots/landing-page.png)
+
+### 2. Features and Workflow
+An overview of the platform's interview preparation features and user workflow.
+
+![Features Overview](screenshots/features-overview.png)
+
+### 3. Account Registration
+The registration interface for new candidates.
+
+![Registration Form](screenshots/registration-form.png)
+
+### 4. Login
+The login interface for returning candidates.
+
+![Login Page](screenshots/login.png)
+
+### 5. Candidate Dashboard
+Interview history, completed sessions, and performance statistics.
+
+![Candidate Dashboard](screenshots/dashboard.png)
+
+### 6. Interview Completion
+The final score and confirmation displayed after completing an interview.
+
+![Interview Completion](screenshots/interview-completion.png)
+
+### 7. Assessment Report
+The overall assessment, performance score, and role-readiness evaluation.
+
+![Assessment Report](screenshots/assessment-report.png)
+
+### 8. Strengths and Recommendations
+AI-generated strengths, areas for improvement, and recommended next steps.
+
+![Assessment Strengths and Recommendations](screenshots/assessment-strengths.png)
+
+### 9. Detailed Performance Breakdown
+Question-by-question scores and detailed assessment feedback.
+
+![Detailed Assessment](screenshots/assessment-details.png)
+
+---
+
 ## Key Features
 
 - **Candidate Authentication:** Registration, email verification, login, and logout.
